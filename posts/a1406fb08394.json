@@ -1,0 +1,13 @@
+{
+  "post_id": "a1406fb08394",
+  "brand": "AI & Future",
+  "topic": "Adaptive Urban Lighting: Saving Energy Through Motion",
+  "image_file": "generated_posts/a1406fb08394.png",
+  "caption": "Urban centers are evolving beyond static infrastructure. New adaptive street lighting systems utilize motion sensors to dim illumination when streets are empty, significantly reducing municipal energy waste while maintaining safety for pedestrians. By integrating localized sensor networks, city planners can optimize power consumption without compromising the visibility required for navigation at night. This shift represents a practical application of IoT in urban environments, moving us toward more efficient resource management rather than constant, blanket energy expenditure. As we upgrade our civic grid, how can we best balance the need for constant security with the necessity of reducing our collective carbon footprint? #SmartCities #UrbanTech #EnergyEfficiency #IoT #SustainableDesign",
+  "status": "pending",
+  "image_prompt": "Cinematic street-level shot at night in a modern city during a light rain. A single street lamp glows brightly directly above a person walking on a sidewalk, while the lamps further ahead and behind are dimmed to a soft, warm amber haze. The asphalt reflects the glowing light in deep, realistic tones. The architecture is clean and contemporary with subtle glass facades. High-end professional photography, 8k resolution, realistic atmospheric lighting, sharp focus on the illuminated pool of light.",
+  "source_theme": "Smart cities and urban technology",
+  "text_model": "gemini-3.1-flash-lite",
+  "created_at": "2026-10-27T09:38:11.892249+00:00",
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/a1406fb08394.png"
+}
