@@ -1,0 +1,89 @@
+{
+  "schema": 1,
+  "design_version": 31,
+  "post_id": "9de8d5e7b63f",
+  "brand": "AI & Future",
+  "topic": "Smart Agriculture Perspectives",
+  "caption": "Smart agriculture concepts propose integrating artificial intelligence into farming workflows to assist daily management. These theoretical frameworks explore how computer vision and sensor data might help monitor crop health and soil moisture more efficiently. By processing large datasets, automated systems could potentially support farmers in making informed irrigation and resource allocation choices. While many of these digital tools remain in development or early testing phases, they represent a growing area of agricultural research. Understanding these emerging technologies helps stakeholders evaluate their future potential without assuming universal deployment. How might data-driven tools shape tomorrow's farms? #SmartAgriculture #AgTech #FutureFarming #AI #AgriTech",
+  "source_theme": "Smart agriculture",
+  "text_model": "gemini-3.5-flash-lite",
+  "post_type": "carousel",
+  "status": "pending",
+  "created_at": "2026-10-28T14:16:53.873645+00:00",
+  "slides": [
+    "generated_posts/9de8d5e7b63f_slide_01.png",
+    "generated_posts/9de8d5e7b63f_slide_02.png",
+    "generated_posts/9de8d5e7b63f_slide_03.png",
+    "generated_posts/9de8d5e7b63f_slide_04.png",
+    "generated_posts/9de8d5e7b63f_slide_05.png",
+    "generated_posts/9de8d5e7b63f_slide_06.png"
+  ],
+  "completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "image_file": "generated_posts/9de8d5e7b63f_slide_01.png",
+  "image_prompt": "Cinematic photorealistic shot of modern soil sensors in a green field, soft morning light, low angle, dark uncluttered lower third.",
+  "image_prompts": [
+    "Cinematic photorealistic shot of modern soil sensors in a green field, soft morning light, low angle, dark uncluttered lower third.",
+    "Photorealistic cinematic view of an autonomous agricultural drone flying above neat crop rows at sunset, clean composition.",
+    "Cinematic shot of automated irrigation systems operating in a dry field, dramatic lighting, dark uncluttered foreground space.",
+    "Photorealistic cinematic interface concept showing crop analytics glowing softly in a modern farm office, moody atmosphere.",
+    "Cinematic photorealistic image of a small robotic rover inspecting plant stems in a greenhouse, natural side lighting.",
+    "Photorealistic cinematic landscape of a vast agricultural valley under a partly cloudy sky, wide angle, deep shadows below."
+  ],
+  "slide_content": [
+    {
+      "heading": "Sensors Watch The Soil",
+      "body": "Connected sensors track moisture levels across fields.",
+      "image_prompt": "Cinematic photorealistic shot of modern soil sensors in a green field, soft morning light, low angle, dark uncluttered lower third."
+    },
+    {
+      "heading": "Drones Map Crop Health",
+      "body": "Aerial imagery concepts assess plant vigor over time.",
+      "image_prompt": "Photorealistic cinematic view of an autonomous agricultural drone flying above neat crop rows at sunset, clean composition."
+    },
+    {
+      "heading": "Data Guides Water Use",
+      "body": "",
+      "image_prompt": "Cinematic shot of automated irrigation systems operating in a dry field, dramatic lighting, dark uncluttered foreground space."
+    },
+    {
+      "heading": "Algorithms Forecast Yields",
+      "body": "Machine learning models analyze historical harvest patterns.",
+      "image_prompt": "Photorealistic cinematic interface concept showing crop analytics glowing softly in a modern farm office, moody atmosphere."
+    },
+    {
+      "heading": "Robots Assist Field Work",
+      "body": "",
+      "image_prompt": "Cinematic photorealistic image of a small robotic rover inspecting plant stems in a greenhouse, natural side lighting."
+    },
+    {
+      "heading": "What Changes For Growers?",
+      "body": "How might data shape future crop management?",
+      "image_prompt": "Photorealistic cinematic landscape of a vast agricultural valley under a partly cloudy sky, wide angle, deep shadows below."
+    }
+  ],
+  "slide_files": [
+    "generated_posts/9de8d5e7b63f_slide_01.png",
+    "generated_posts/9de8d5e7b63f_slide_02.png",
+    "generated_posts/9de8d5e7b63f_slide_03.png",
+    "generated_posts/9de8d5e7b63f_slide_04.png",
+    "generated_posts/9de8d5e7b63f_slide_05.png",
+    "generated_posts/9de8d5e7b63f_slide_06.png"
+  ],
+  "image_urls": [
+    "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_01.png",
+    "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_02.png",
+    "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_03.png",
+    "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_04.png",
+    "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_05.png",
+    "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_06.png"
+  ],
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/9de8d5e7b63f_slide_01.png",
+  "slide_count": 6
+}
