@@ -1,0 +1,14 @@
+{
+  "post_id": "56614bde639b",
+  "brand": "AI & Future",
+  "topic": "Mapping the Abyssal Plains with Autonomous Swarm Robotics",
+  "image_file": "generated_posts/56614bde639b.png",
+  "caption": "Only five percent of the ocean floor has been mapped with high-resolution sonar, leaving vast geological mysteries hidden beneath miles of water. Today, marine researchers are deploying autonomous underwater vehicle swarms—small, coordinated drones that communicate via acoustic signals to scan expansive seafloor territories. These systems allow us to visualize tectonic plates and hydrothermal vents in unprecedented detail without the need for constant human guidance or tethered support ships. By digitizing the deep sea, we gain critical insights into seismic activity and biodiversity in the Earth's least accessible environments. How will high-fidelity seafloor maps transform our understanding of planetary change? #OceanTech #DeepSeaExploration #MarineRobotics #Hydrography #AIInScience",
+  "status": "pending",
+  "image_prompt": "A cinematic, wide-angle underwater shot of three sleek, modular autonomous underwater vehicles hovering above a dark, rugged basalt seafloor. The drones emit soft, cool-toned blue LED navigation lights that illuminate textured volcanic rock formations and fine sediment. In the background, the deep ocean water transitions into an infinite black abyss. Highly detailed metal textures with faint scratches, hyper-realistic water caustics, volumetric lighting, shot on 35mm lens, professional marine cinematography style.",
+  "source_theme": "Ocean exploration technology",
+  "text_model": "gemini-3.1-flash-lite",
+  "image_model": "@cf/black-forest-labs/flux-1-schnell",
+  "created_at": "2026-10-28T10:04:06.718429+00:00",
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/56614bde639b.png"
+}
