@@ -1,0 +1,14 @@
+{
+  "post_id": "6f34c5679c6d",
+  "brand": "AI & Future",
+  "topic": "Transparent Wood: Structural Timber That Lets Light Through",
+  "image_file": "generated_posts/6f34c5679c6d.png",
+  "caption": "Engineers are transforming traditional balsa wood into a load-bearing, transparent building material by chemically removing its light-absorbing lignin and infusing the remaining cellulose scaffold with clear epoxy. This process creates a sustainable alternative to glass and standard plastics, offering superior thermal insulation and impact resistance for modern architecture. Imagine skyscrapers with walls that provide structural support while naturally diffusing daylight through renewable resources. Would you want to live in a house made of transparent wood? #TransparentWood #SustainableArchitecture #MaterialScience #GreenEngineering #FutureTech",
+  "status": "pending",
+  "image_prompt": "A close-up macro shot of a modern architectural prototype made of transparent wood, resting on a concrete workbench in a bright daylight engineering lab. Natural sunlight passes directly through the visible fibrous grain of the timber, creating soft warm light refractions. Photorealistic, shallow depth of field, 8k resolution, professional architectural photography.",
+  "source_theme": "New materials and engineering",
+  "text_model": "gemini-3.5-flash-lite",
+  "image_model": "@cf/black-forest-labs/flux-1-schnell",
+  "created_at": "2026-10-28T15:05:45.893701+00:00",
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/6f34c5679c6d.png"
+}
