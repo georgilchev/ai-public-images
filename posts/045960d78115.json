@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "design_version": 32,
+  "post_id": "045960d78115",
+  "brand": "AI & Future",
+  "topic": "The Future of Transportation",
+  "caption": "As urban density increases, transportation systems face a critical transformation. Emerging autonomous networks and electric mobility solutions are reshaping how people and goods move through modern cities. While many infrastructure upgrades remain conceptual, engineers are actively testing new approaches to reduce congestion and lower carbon emissions. These developments point toward an integrated transit ecosystem combining shared autonomous vehicles with high-speed rail. How will your daily commute change in the coming decades? Share your thoughts below. #FutureOfMobility #SmartCities #AutonomousVehicles #GreenTransit #UrbanPlanning",
+  "source_theme": "The future of transportation",
+  "text_model": "gemini-3.5-flash-lite",
+  "post_type": "carousel",
+  "status": "pending",
+  "created_at": "2026-10-28T14:46:31.988577+00:00",
+  "slides": [
+    "generated_posts/045960d78115_slide_01.png",
+    "generated_posts/045960d78115_slide_02.png",
+    "generated_posts/045960d78115_slide_03.png",
+    "generated_posts/045960d78115_slide_04.png",
+    "generated_posts/045960d78115_slide_05.png"
+  ],
+  "completed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "image_file": "generated_posts/045960d78115_slide_01.png",
+  "image_prompt": "Cinematic wide shot of a modern city street at twilight, sleek autonomous electric shuttles moving smoothly, dark uncluttered asphalt in the lower third, photorealistic editorial style.",
+  "image_prompts": [
+    "Cinematic wide shot of a modern city street at twilight, sleek autonomous electric shuttles moving smoothly, dark uncluttered asphalt in the lower third, photorealistic editorial style.",
+    "Close-up photorealistic shot of a modern autonomous pod interior glowing softly, empty passenger seats, blurred city lights through the window, dark lower composition.",
+    "Photorealistic aerial view of a conceptual electric vertical takeoff aircraft hovering near a minimalist skyscraper rooftop at dusk, dark atmospheric sky below.",
+    "Photorealistic cinematic shot of a sleek high-speed train gliding through a mountainous landscape at sunrise, dark shadowed foreground for text overlay.",
+    "Photorealistic editorial shot of a pedestrian walking on a clean, modern transit platform at night, soft ambient lighting, dark uncluttered ground plane."
+  ],
+  "slide_content": [
+    {
+      "heading": "Redefining Urban Mobility",
+      "body": "Cities are redesigning streets for autonomous transit systems.",
+      "image_prompt": "Cinematic wide shot of a modern city street at twilight, sleek autonomous electric shuttles moving smoothly, dark uncluttered asphalt in the lower third, photorealistic editorial style."
+    },
+    {
+      "heading": "Autonomous Fleets Evolve",
+      "body": "Self-driving vehicles aim to reduce urban traffic congestion.",
+      "image_prompt": "Close-up photorealistic shot of a modern autonomous pod interior glowing softly, empty passenger seats, blurred city lights through the window, dark lower composition."
+    },
+    {
+      "heading": "Aerial Transit Concepts",
+      "body": "Concept designs explore vertical flight for urban commuters.",
+      "image_prompt": "Photorealistic aerial view of a conceptual electric vertical takeoff aircraft hovering near a minimalist skyscraper rooftop at dusk, dark atmospheric sky below."
+    },
+    {
+      "heading": "Smart Rail Networks",
+      "body": "AI algorithms optimize passenger flow across high-speed rail lines.",
+      "image_prompt": "Photorealistic cinematic shot of a sleek high-speed train gliding through a mountainous landscape at sunrise, dark shadowed foreground for text overlay."
+    },
+    {
+      "heading": "The Next Commute",
+      "body": "How will autonomous networks transform your daily travel routine?",
+      "image_prompt": "Photorealistic editorial shot of a pedestrian walking on a clean, modern transit platform at night, soft ambient lighting, dark uncluttered ground plane."
+    }
+  ],
+  "slide_files": [
+    "generated_posts/045960d78115_slide_01.png",
+    "generated_posts/045960d78115_slide_02.png",
+    "generated_posts/045960d78115_slide_03.png",
+    "generated_posts/045960d78115_slide_04.png",
+    "generated_posts/045960d78115_slide_05.png"
+  ],
+  "image_urls": [
+    "https://georgilchev.github.io/ai-public-images/posts/045960d78115_slide_01.png",
+    "https://georgilchev.github.io/ai-public-images/posts/045960d78115_slide_02.png",
+    "https://georgilchev.github.io/ai-public-images/posts/045960d78115_slide_03.png",
+    "https://georgilchev.github.io/ai-public-images/posts/045960d78115_slide_04.png",
+    "https://georgilchev.github.io/ai-public-images/posts/045960d78115_slide_05.png"
+  ],
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/045960d78115_slide_01.png",
+  "slide_count": 5
+}
