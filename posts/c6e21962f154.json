@@ -1,0 +1,14 @@
+{
+  "post_id": "c6e21962f154",
+  "brand": "AI & Future",
+  "topic": "Mapping Protein Structures with Machine Learning",
+  "image_file": "generated_posts/c6e21962f154.png",
+  "caption": "For decades, determining the 3D structure of proteins took years of painstaking laboratory work. Today, machine learning models like AlphaFold are helping researchers predict these complex molecular shapes in minutes. By analyzing vast databases of known amino acid sequences, algorithms uncover structural patterns invisible to the human eye. This computational acceleration is transforming how scientists approach drug design and biochemistry. How might instant structural data change the timeline of modern pharmacology? #ArtificialIntelligence #StructuralBiology #ScientificResearch #MachineLearning #Biotech",
+  "status": "pending",
+  "image_prompt": "A cinematic, wide-angle shot of a biochemistry laboratory at dusk, where a senior researcher and a junior scientist stand in front of a massive, curved glass wall displaying a glowing, multicolored 3D protein folding simulation. The laboratory features sleek brushed metal surfaces, modern glassware reflecting soft ambient blue and warm orange desk lamps, and advanced analytical equipment. Photorealistic, shallow depth of field, focused on the intricate glowing molecular model, no text or watermarks.",
+  "source_theme": "AI in scientific discovery",
+  "text_model": "gemini-3.5-flash-lite",
+  "image_model": "@cf/black-forest-labs/flux-1-schnell",
+  "created_at": "2026-10-28T15:09:32.225576+00:00",
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/c6e21962f154.png"
+}
