@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "design_version": 32,
+  "post_id": "f5cb0e4fadcf",
+  "brand": "AI & Future",
+  "topic": "The Art of Together",
+  "caption": "Human-robot collaboration represents a significant shift in how we approach modern workspaces. Instead of replacing human operators, new robotic systems are designed to work side-by-side with people, sharing tasks and physical spaces safely. This synergy combines human adaptability and problem-solving skills with the precision and endurance of machines. As these collaborative frameworks continue to develop, industries ranging from manufacturing to healthcare are exploring how joint efforts can improve efficiency and reduce physical strain. Careful integration ensures that technology amplifies human potential rather than displacing it. What excites you most about working alongside intelligent machines? #HumanRobotCollaboration #FutureOfWork #Robotics #TechTrends #WorkplaceInnovation",
+  "source_theme": "Human-robot collaboration",
+  "text_model": "gemini-3.5-flash-lite",
+  "post_type": "carousel",
+  "status": "pending",
+  "created_at": "2026-11-04T14:07:13.227957+00:00",
+  "slides": [
+    "generated_posts/f5cb0e4fadcf_slide_01.png",
+    "generated_posts/f5cb0e4fadcf_slide_02.png",
+    "generated_posts/f5cb0e4fadcf_slide_03.png",
+    "generated_posts/f5cb0e4fadcf_slide_04.png",
+    "generated_posts/f5cb0e4fadcf_slide_05.png"
+  ],
+  "completed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "image_file": "generated_posts/f5cb0e4fadcf_slide_01.png",
+  "image_prompt": "Cinematic wide shot of a modern cleanroom where a technician and a robotic arm adjust electronic components together, soft natural lighting from a side window, dark clean floor, photorealistic.",
+  "image_prompts": [
+    "Cinematic wide shot of a modern cleanroom where a technician and a robotic arm adjust electronic components together, soft natural lighting from a side window, dark clean floor, photorealistic.",
+    "Overhead perspective of an engineer reviewing blueprints next to a glowing automated guide vehicle, dimly lit industrial floor, shallow depth of field, highly detailed.",
+    "Close-up profile of a warehouse worker wearing a lightweight mechanical support frame, moody atmospheric lighting, dark background, sharp focus, cinematic realism.",
+    "Medium shot of an aerospace technician inspecting a turbine blade held steady by an articulated mechanical arm, dark workshop interior, cinematic shadows.",
+    "Low-angle cinematic shot of a designer gesturing toward a holographic workspace interface with a quiet robotic assistant nearby, dark minimalist studio."
+  ],
+  "slide_content": [
+    {
+      "heading": "Beyond Full Automation",
+      "body": "Collaborative systems focus on teamwork rather than total replacement.",
+      "image_prompt": "Cinematic wide shot of a modern cleanroom where a technician and a robotic arm adjust electronic components together, soft natural lighting from a side window, dark clean floor, photorealistic."
+    },
+    {
+      "heading": "Shared Physical Spaces",
+      "body": "Advanced sensors allow robots to operate safely near humans.",
+      "image_prompt": "Overhead perspective of an engineer reviewing blueprints next to a glowing automated guide vehicle, dimly lit industrial floor, shallow depth of field, highly detailed."
+    },
+    {
+      "heading": "Ergonomic Support Concepts",
+      "body": "Wearable robotic concepts aim to reduce physical fatigue during heavy tasks.",
+      "image_prompt": "Close-up profile of a warehouse worker wearing a lightweight mechanical support frame, moody atmospheric lighting, dark background, sharp focus, cinematic realism."
+    },
+    {
+      "heading": "Complementary Skill Sets",
+      "body": "Machines handle repetitive precision while humans manage complex decisions.",
+      "image_prompt": "Medium shot of an aerospace technician inspecting a turbine blade held steady by an articulated mechanical arm, dark workshop interior, cinematic shadows."
+    },
+    {
+      "heading": "The Collaborative Future",
+      "body": "How will your daily profession change with robotic assistance?",
+      "image_prompt": "Low-angle cinematic shot of a designer gesturing toward a holographic workspace interface with a quiet robotic assistant nearby, dark minimalist studio."
+    }
+  ],
+  "slide_files": [
+    "generated_posts/f5cb0e4fadcf_slide_01.png",
+    "generated_posts/f5cb0e4fadcf_slide_02.png",
+    "generated_posts/f5cb0e4fadcf_slide_03.png",
+    "generated_posts/f5cb0e4fadcf_slide_04.png",
+    "generated_posts/f5cb0e4fadcf_slide_05.png"
+  ],
+  "image_urls": [
+    "https://georgilchev.github.io/ai-public-images/posts/f5cb0e4fadcf_slide_01.png",
+    "https://georgilchev.github.io/ai-public-images/posts/f5cb0e4fadcf_slide_02.png",
+    "https://georgilchev.github.io/ai-public-images/posts/f5cb0e4fadcf_slide_03.png",
+    "https://georgilchev.github.io/ai-public-images/posts/f5cb0e4fadcf_slide_04.png",
+    "https://georgilchev.github.io/ai-public-images/posts/f5cb0e4fadcf_slide_05.png"
+  ],
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/f5cb0e4fadcf_slide_01.png",
+  "slide_count": 5
+}
