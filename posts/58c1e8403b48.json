@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "design_version": 32,
+  "post_id": "58c1e8403b48",
+  "brand": "AI & Future",
+  "topic": "Robotics in Disaster Response",
+  "caption": "As climate-related challenges intensify, the integration of robotics into emergency management remains a critical area of technological exploration. Current research focuses on developing machines capable of navigating hazardous debris and unstable structures where human responders face significant risks. While many of these systems remain in the conceptual phase, engineers are working to improve mobility, sensor precision, and autonomous decision-making in unpredictable environments. From aerial surveillance units to ground-based search modules, the goal is to enhance situational awareness and provide support in high-stakes scenarios. As we look toward the future, the collaboration between human expertise and robotic reliability will likely shape how we approach disaster recovery. What role do you see these machines playing in the next decade of emergency services? #Robotics #DisasterResponse #FutureTech #Innovation #EmergencyTech #AI",
+  "source_theme": "Robotics in disaster response",
+  "text_model": "gemini-3.1-flash-lite",
+  "post_type": "carousel",
+  "status": "pending",
+  "created_at": "2026-11-11T09:48:25.959892+00:00",
+  "slides": [
+    "generated_posts/58c1e8403b48_slide_01.png",
+    "generated_posts/58c1e8403b48_slide_02.png",
+    "generated_posts/58c1e8403b48_slide_03.png",
+    "generated_posts/58c1e8403b48_slide_04.png",
+    "generated_posts/58c1e8403b48_slide_05.png"
+  ],
+  "completed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "image_file": "generated_posts/58c1e8403b48_slide_01.png",
+  "image_prompt": "Cinematic wide shot of a rugged, tracked exploration robot navigating a dark, rubble-filled interior, top-down perspective, high contrast, minimalist background.",
+  "image_prompts": [
+    "Cinematic wide shot of a rugged, tracked exploration robot navigating a dark, rubble-filled interior, top-down perspective, high contrast, minimalist background.",
+    "Photorealistic view of a fleet of sleek, modern drones hovering over a fractured landscape at twilight, low angle shot, soft ambient lighting.",
+    "A sophisticated four-legged robot standing on a jagged steel beam, cinematic lighting, eye-level composition, depth of field.",
+    "A close-up of a high-tech robotic sensor head reflecting orange emergency lighting, sharp focus, cinematic depth, dark background.",
+    "Wide angle shot of a silhouette of a person standing next to a rescue robot looking toward a distant horizon, sunset lighting, cinematic atmosphere."
+  ],
+  "slide_content": [
+    {
+      "heading": "Robots Reach Dangerous Zones",
+      "body": "Robotic systems aim to assist in environments too hazardous for human entry.",
+      "image_prompt": "Cinematic wide shot of a rugged, tracked exploration robot navigating a dark, rubble-filled interior, top-down perspective, high contrast, minimalist background."
+    },
+    {
+      "heading": "Aerial Surveillance Concepts",
+      "body": "Drone swarms are a concept for mapping disaster areas in real-time.",
+      "image_prompt": "Photorealistic view of a fleet of sleek, modern drones hovering over a fractured landscape at twilight, low angle shot, soft ambient lighting."
+    },
+    {
+      "heading": "Advanced Mobility Systems",
+      "body": "Legged robotics are designed to traverse uneven surfaces like fallen concrete.",
+      "image_prompt": "A sophisticated four-legged robot standing on a jagged steel beam, cinematic lighting, eye-level composition, depth of field."
+    },
+    {
+      "heading": "Integrated Sensor Arrays",
+      "body": "Thermal and lidar sensors help identify heat signatures amidst total debris.",
+      "image_prompt": "A close-up of a high-tech robotic sensor head reflecting orange emergency lighting, sharp focus, cinematic depth, dark background."
+    },
+    {
+      "heading": "The Future of Rescue",
+      "body": "How will humans and robots best collaborate during future emergency operations?",
+      "image_prompt": "Wide angle shot of a silhouette of a person standing next to a rescue robot looking toward a distant horizon, sunset lighting, cinematic atmosphere."
+    }
+  ],
+  "slide_files": [
+    "generated_posts/58c1e8403b48_slide_01.png",
+    "generated_posts/58c1e8403b48_slide_02.png",
+    "generated_posts/58c1e8403b48_slide_03.png",
+    "generated_posts/58c1e8403b48_slide_04.png",
+    "generated_posts/58c1e8403b48_slide_05.png"
+  ],
+  "image_urls": [
+    "https://georgilchev.github.io/ai-public-images/posts/58c1e8403b48_slide_01.png",
+    "https://georgilchev.github.io/ai-public-images/posts/58c1e8403b48_slide_02.png",
+    "https://georgilchev.github.io/ai-public-images/posts/58c1e8403b48_slide_03.png",
+    "https://georgilchev.github.io/ai-public-images/posts/58c1e8403b48_slide_04.png",
+    "https://georgilchev.github.io/ai-public-images/posts/58c1e8403b48_slide_05.png"
+  ],
+  "image_url": "https://georgilchev.github.io/ai-public-images/posts/58c1e8403b48_slide_01.png",
+  "slide_count": 5
+}
